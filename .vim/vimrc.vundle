@@ -1,0 +1,7 @@
+Plugin 'mileszs/ack.vim'
+Plugin 'Townk/vim-autoclose'
+Plugin 'tpope/vim-fugitive'
+Plugin 'jistr/vim-nerdtree-tabs'
+Plugin 'arnaud-lb/vim-php-namespace'
+Plugin 'vim-scripts/indent-motion'
+Plugin 'scrooloose/syntastic'
