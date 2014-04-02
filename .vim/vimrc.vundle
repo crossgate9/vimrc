@@ -5,3 +5,9 @@ Plugin 'jistr/vim-nerdtree-tabs'
 Plugin 'arnaud-lb/vim-php-namespace'
 Plugin 'vim-scripts/indent-motion'
 Plugin 'scrooloose/syntastic'
+
+Plugin 'tpope/vim-markdown'
+Plugin 'tpope/vim-surround'
+
+
+Plugin 'git://git.wincent.com/command-t.git'
