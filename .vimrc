@@ -103,3 +103,4 @@ nmap <leader>q :q!<CR>
 
 map <leader>er :bo cope<CR>
 
+autocmd BufWritePre * :%s/\s\+$//e
