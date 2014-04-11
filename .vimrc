@@ -104,3 +104,10 @@ nmap <leader>q :q!<CR>
 map <leader>er :bo cope<CR>
 
 autocmd BufWritePre * :%s/\s\+$//e
+cmap w!! %!sudo tee > /dev/null %
+
+set encoding=utf-8                                  
+set termencoding=utf-8
+set fileencoding=utf-8
+set fileencodings=ucs-bom,utf-8,gbk,big5,latin1
+
