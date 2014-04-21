@@ -11,3 +11,10 @@ Plugin 'tpope/vim-surround'
 
 
 Plugin 'git://git.wincent.com/command-t.git'
+
+" HTML, HAML, SASS
+Plugin 'tpope/vim-haml'
+Plugin 'concise/vim-html5-fix'
+
+" JavaScript
+Plugin 'pangloss/vim-javascript'
