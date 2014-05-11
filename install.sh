@@ -9,3 +9,5 @@ fi
 cp ./.vimrc ~/
 cp ./.vim/vimrc.vundle ~/.vim/
 vim +PluginInstall +qall
+
+mkdir ~/.vim/bak
